@@ -1,5 +1,5 @@
 # Albums using React Native  
-## 1st React-Native Project#
+### 1st React-Native Project
 
 
 ##### Queenie Ho  
