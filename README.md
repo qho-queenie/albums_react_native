@@ -1,4 +1,5 @@
-# albums_react_native
+# Albums using React Native  
+
 
 
 ###### Queenie Ho  
